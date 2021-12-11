@@ -387,7 +387,7 @@ body{
   transform:translateX(20.05px);
 }
 .badge-toggle-input:hover ~ .badge-toggle-fill::after {
-  box-shadow: 0px 0px 0px 8px rgba(175, 198, 189, 0.50);
+  box-shadow: 0px 0px 0px 6px rgba(175, 198, 189, 0.50);
 }
 
 .info-tool-tip-container{
